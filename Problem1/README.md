@@ -10,12 +10,12 @@ To process 100,000 images and resize them to 600 x 480 dimensions, the most effi
 
 ## Requirements
 
-``bash
+```
 pip install -r requirements.txt
-``
+```
 
 ## Usage
 
-``python
+```
 python resize_image.py
-``
+```
